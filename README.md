@@ -1,6 +1,12 @@
-<<<<<<< HEAD
 # sehatanak-mobile-app
 Aplikasi Mobile Sehat Anak
+
+setelah clone project disarankan untuk menjalankan perintah: 
+flutter pub get
+
+lalu run project: 
+flutter run
+
 =======
 # sehatanak
 
